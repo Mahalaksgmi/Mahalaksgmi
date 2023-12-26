@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mahalakshmi
 - 👀 I’m interested in ML,WEB DEVELOPMENT
-- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ---
 - 📫 How to reach me ---
 
